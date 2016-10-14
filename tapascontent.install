@@ -1,0 +1,23 @@
+<?php
+
+/**
+ * @file 
+ * tapascontent.install
+ *
+ * Creates the content types, field bases, and field instances for
+ * TAPAS content types. Also removes them when the module is 
+ * uninstalled.
+ *
+ * @author Linda Moss (GitHub LindaJeanne) <l.moss@neu.edu>
+ * @since 2.0
+ * @version 2.1
+ */
+
+
+/**
+ * Implements hook_install()
+ */
+
+function tapascontent_install() {
+
+}
